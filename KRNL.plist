@@ -23,13 +23,13 @@
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>krnl.client</string>
+     <string>com.krnl.client</string>
      <key>bundle-version</key>
      <string>1.0.0</string>
      <key>kind</key>
      <string>software</string>
      <key>title</key>
-     <string>KRNL Client</string>
+     <string>Krnl</string>
     </dict>
    </dict>
   </array>
