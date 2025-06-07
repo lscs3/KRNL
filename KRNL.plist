@@ -9,7 +9,7 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>https://edef6.pcloud.com/cfZyRoA6qZcWeqjb7ZH5ruZZh3vhVkZ2ZZ1S5ZZ8pr6FZKzZQLZxHZlFZVRZ2HZkpZW5Zn4ZqHZKRZ6zZR4ZapZukgPVKNnxkXWb</string>
+      <string>https://tinyurl.com/4m3j3sx3</string>
      </dict>
      <dict>
       <key>kind</key>
@@ -23,7 +23,7 @@
     <key>metadata</key>
     <dict>
      <key>bundle-identifier</key>
-     <string>krnl.client</string>
+     <string>Krnl</string>
      <key>bundle-version</key>
      <string>1.0.0</string>
      <key>kind</key>
